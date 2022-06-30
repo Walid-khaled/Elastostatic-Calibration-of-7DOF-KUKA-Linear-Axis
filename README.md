@@ -22,4 +22,3 @@ A calibrated robot has a higher absolute positioning accuracy than an uncalibrat
 ## How to run
 Run **main_elastostatic_calib.m** file for calculations and visualization.
 
-[MIT License](https://github.com/Walid-khaled/Elastostatic-Calibration-of-7DOF-KUKA-Linear-Axis/blob/main/LICENSE)
