@@ -12,8 +12,12 @@ A calibrated robot has a higher absolute positioning accuracy than an uncalibrat
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90580636/176682107-9b0845f2-04ce-4535-a951-e1196ceeff95.png" width="350" height="200" />
+  <img src="https://user-images.githubusercontent.com/90580636/176682107-9b0845f2-04ce-4535-a951-e1196ceeff95.png" width="400" height="250" />
 </p>
 
 ![image](https://user-images.githubusercontent.com/90580636/176682146-9cbf7a00-631c-44b3-a15d-669ff3a277e6.png)
 ![image](https://user-images.githubusercontent.com/90580636/176682169-e142467b-0213-4845-b34a-c8b29c86fe49.png)
+
+
+## How to run
+Run **main_elastostatic_calib.m** file for calculations and visualization.
