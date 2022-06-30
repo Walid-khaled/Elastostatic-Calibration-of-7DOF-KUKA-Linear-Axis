@@ -11,9 +11,9 @@ A calibrated robot has a higher absolute positioning accuracy than an uncalibrat
   <img src="https://user-images.githubusercontent.com/90580636/176682088-d79969d7-1839-4de1-862d-6fcc6c46d4f5.png" width="400" height="250" />
 </p>
 
-<p float="left">
+<p float="center">
   <img src="https://user-images.githubusercontent.com/90580636/176682107-9b0845f2-04ce-4535-a951-e1196ceeff95.png" width="350" height="200" />
-  ![image](https://user-images.githubusercontent.com/90580636/176682146-9cbf7a00-631c-44b3-a15d-669ff3a277e6.png)
 </p>
 
+![image](https://user-images.githubusercontent.com/90580636/176682146-9cbf7a00-631c-44b3-a15d-669ff3a277e6.png)
 ![image](https://user-images.githubusercontent.com/90580636/176682169-e142467b-0213-4845-b34a-c8b29c86fe49.png)
