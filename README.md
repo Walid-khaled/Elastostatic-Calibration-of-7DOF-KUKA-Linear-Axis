@@ -1,1 +1,1 @@
-# Elastostatic-Calibration-of-7DOF-KUKA-Linear-Axis-
+# Elastostatic-Calibration-of-7DOF-KUKA-Linear-Axis
