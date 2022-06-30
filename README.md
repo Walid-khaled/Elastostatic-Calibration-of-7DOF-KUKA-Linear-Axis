@@ -1,5 +1,5 @@
 # Elastostatic-Calibration-of-7DOF-KUKA-Linear-Axis
-
+A calibrated robot has a higher absolute positioning accuracy than an uncalibrated one, i.e., the real position of the robot end-effector corresponds better to the position calculated from the mathematical model of the robot. Absolute positioning accuracy is particularly relevant in connection with robot exchangeability and off-line programming of precision applications. Besides the calibration of the robot, the calibration of its tools and the work pieces it works with (the so-called cell calibration) can minimize occurring inaccuracies and improve process security. Usually, robot errors come from geometric errors (link length) and non-geometric errors (link compliance). In this repository, 
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/171466339-c1a0e96f-71ec-41f2-8891-c0522536ea04.png" width="300" height="200" />
